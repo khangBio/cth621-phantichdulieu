@@ -1,0 +1,21 @@
+ Volume in drive D has no label.
+ Volume Serial Number is BE58-C2D1
+
+ Directory of D:\IT-00913-VNPT\SAU_DAI_HOC\PHAN_TICH_DU_LIEU\cth621-phantichdulieu-01\data-a2\visualizations_bank
+
+[.]                                     13_job_yes_rate_ci.png
+[..]                                    14_violin_numeric_by_y.png
+01_histogram_age_balance_duration.png   15_ecdf_numeric_by_y.png
+02_histogram_full_range_log_count.png   16_hexbin_balance_duration.png
+03_boxplot_numeric_full_range.png       17_age_bins_yes_rate.png
+04_boxplot_numeric_by_y.png             18_balance_bins_yes_rate.png
+05_scatter_age_balance_by_y.png         19_duration_bins_yes_rate.png
+06_scatter_age_duration_by_y.png        20_pairplot_numeric_by_y.png
+07_scatter_balance_duration_by_y.png    BAO_CAO_NHAN_XET.md
+08_correlation_heatmaps.png             DANH_MUC_BIEU_DO.csv
+09_job_bar_count.png                    fileName.txt
+10_job_doughnut_share.png               thong_ke_mo_ta.csv
+11_y_bar_and_pie.png                    
+12_job_y_100pct_stacked.png             
+              24 File(s)      4,800,060 bytes
+               2 Dir(s)  43,583,238,144 bytes free

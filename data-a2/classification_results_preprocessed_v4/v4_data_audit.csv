@@ -1,0 +1,4 @@
+﻿Variable,Rows,Original_matches_preprocess,Original_min,Original_max,Capped_min,Capped_max,Capped_changed_count,Existing_minmax_min,Existing_minmax_max,Existing_zscore_mean,Existing_zscore_std_population,Selected_model_input,Scaling_in_pipeline
+age,45211,True,18,95,18.0,70.5,487,0.0,0.6818181818181818,-0.006406159236091162,0.9789069570092864,age_capped,StandardScaler fit on Train only
+balance,45211,True,-8019,102127,-1962.0,3462.0,4729,0.05499064877526193,0.10423437982314383,-0.1407546943718818,0.3864836970885735,balance_capped,StandardScaler fit on Train only
+duration,45211,True,0,4918,0.0,643.0,3235,0.0,0.1307442049613664,-0.09017966941640519,0.6863257823932706,duration_capped,StandardScaler fit on Train only

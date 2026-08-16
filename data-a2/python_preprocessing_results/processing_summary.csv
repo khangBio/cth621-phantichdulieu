@@ -1,0 +1,4 @@
+﻿Variable,Fill_method,Fill_value,Missing_filled,Lower_bound_used,Upper_bound_used,Capped_low,Capped_high,Total_capped
+age,Median,39.0,0,10.5,70.5,0,487,487
+balance,Median,448.0,0,-1962.0,3462.0,17,4712,4729
+duration,Median,180.0,0,-221.0,643.0,0,3235,3235

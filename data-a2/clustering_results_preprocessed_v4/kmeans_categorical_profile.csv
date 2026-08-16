@@ -1,0 +1,6 @@
+﻿KMeans_cluster,Cluster_size,Cluster_percent,y_yes_rate,housing_yes_rate,loan_yes_rate,Top_job,Top_marital,Top_education,Top_contact,Top_poutcome
+0,7642,16.902966092322664,22.16697199685946,64.15859722585711,13.949227950798221,blue-collar,married,secondary,cellular,failure
+1,13761,30.43728296211099,11.765133347867161,47.03873265024344,19.235520674369592,blue-collar,married,secondary,cellular,unknown
+2,8993,19.891176925969344,14.744801512287333,39.019237184476815,13.599466251528966,management,married,tertiary,cellular,unknown
+3,13392,29.62110990688107,4.3832138590203105,71.10961768219832,15.300179211469533,blue-collar,married,secondary,unknown,unknown
+4,1423,3.1474641127159324,4.4272663387210125,50.73787772312017,18.20098383696416,blue-collar,married,secondary,cellular,unknown

@@ -1,0 +1,4 @@
+﻿Variable,MinMax_min,MinMax_max,Zscore_mean,Zscore_std_ddof0
+age,0.0,1.0,-2.46429189726358e-16,0.9999999999999999
+balance,0.0,1.0,5.029167137272612e-18,0.9999999999999998
+duration,0.0,1.0,-5.029167137272612e-17,1.0

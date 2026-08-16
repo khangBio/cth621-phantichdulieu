@@ -1,0 +1,7 @@
+﻿Target,Model,Excluded_features,Train_size,Test_size,Accuracy,Balanced_accuracy,Precision_yes,Recall_yes,F1_yes,Precision_macro,Recall_macro,F1_macro
+y,Logistic Regression,duration,36168,9043,0.7567,0.7081,0.2721,0.6446,0.3827,0.6073,0.7081,0.6156
+y,Random Forest,duration,36168,9043,0.886,0.6739,0.5166,0.397,0.449,0.7195,0.6739,0.6927
+housing,Logistic Regression,y,36168,9043,0.7417,0.7458,0.8031,0.7091,0.7532,0.7428,0.7458,0.7411
+housing,Random Forest,y,36168,9043,0.7914,0.7932,0.836,0.7772,0.8055,0.7899,0.7932,0.7903
+loan,Logistic Regression,y,36168,9043,0.6271,0.6322,0.2454,0.6398,0.3548,0.5732,0.6322,0.5463
+loan,Random Forest,y,36168,9043,0.8265,0.5798,0.4198,0.2167,0.2858,0.6415,0.5798,0.5935

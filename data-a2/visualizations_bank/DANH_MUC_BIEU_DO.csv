@@ -1,0 +1,21 @@
+﻿file,mo_ta
+01_histogram_age_balance_duration.png,Histogram và KDE
+02_histogram_full_range_log_count.png,"Histogram toàn miền, trục đếm log"
+03_boxplot_numeric_full_range.png,Boxplot toàn miền
+04_boxplot_numeric_by_y.png,Boxplot theo y
+05_scatter_age_balance_by_y.png,Scatter age-balance
+06_scatter_age_duration_by_y.png,Scatter age-duration
+07_scatter_balance_duration_by_y.png,Scatter balance-duration
+08_correlation_heatmaps.png,Heatmap tương quan
+09_job_bar_count.png,Bar số lượng job
+10_job_doughnut_share.png,Doughnut tỷ trọng job
+11_y_bar_and_pie.png,Bar và pie của y
+12_job_y_100pct_stacked.png,100% stacked job-y
+13_job_yes_rate_ci.png,Tỷ lệ yes theo job + CI
+14_violin_numeric_by_y.png,Violin theo y
+15_ecdf_numeric_by_y.png,ECDF theo y
+16_hexbin_balance_duration.png,Hexbin balance-duration
+17_age_bins_yes_rate.png,Nhóm tuổi + tỷ lệ yes
+18_balance_bins_yes_rate.png,Decile balance + tỷ lệ yes
+19_duration_bins_yes_rate.png,Decile duration + tỷ lệ yes
+20_pairplot_numeric_by_y.png,Pairplot tổng hợp

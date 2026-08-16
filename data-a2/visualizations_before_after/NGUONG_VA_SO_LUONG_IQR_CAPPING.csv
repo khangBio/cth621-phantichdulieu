@@ -1,0 +1,4 @@
+﻿variable,lower_fence,upper_fence,capped_count,capped_low,capped_high
+age,10.5,70.5,487.0,0.0,487.0
+balance,-1962.0,3462.0,4729.0,17.0,4712.0
+duration,-221.0,643.0,3235.0,0.0,3235.0

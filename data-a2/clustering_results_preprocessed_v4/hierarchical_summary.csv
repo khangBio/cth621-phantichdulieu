@@ -1,0 +1,2 @@
+﻿Algorithm,Sample_size,Requested_cluster_count,Actual_cluster_count,Silhouette,Adjusted_Rand_vs_KMeans,Cophenetic_correlation,Reason_for_sampling
+Ward Hierarchical,2000,5,5,0.1222400270749754,0.4114586429476785,0.5280223630404299,Hierarchical linkage có chi phí bộ nhớ/thời gian O(n^2)

@@ -1,0 +1,7 @@
+﻿Algorithm,Split,Rows,Cluster_count_excluding_noise,Noise_count,Noise_percent,Silhouette_non_noise,Out_of_sample_assignment
+K-Means,Train,36168,5,0,0.0,0.15505421354248813,fit_predict
+K-Means,Test,9043,5,0,0.0,0.15652546003904336,KMeans.predict
+Hierarchical,Train,36168,5,0,0.0,0.14023775999596513,Nearest centroid from Ward sample
+Hierarchical,Test,9043,5,0,0.0,0.1378533735946439,Nearest centroid from Ward sample
+DBSCAN,Train,36168,9,8003,22.12729484627295,0.05036032675908418,fit_predict
+DBSCAN,Test,9043,9,2106,23.288731615614285,0.060744880919109234,Nearest DBSCAN core point within eps

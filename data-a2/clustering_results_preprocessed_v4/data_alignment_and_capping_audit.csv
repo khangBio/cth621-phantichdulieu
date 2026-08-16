@@ -1,0 +1,4 @@
+﻿Variable,Rows,Original_matches_preprocess,Original_min,Original_max,Capped_min,Capped_max,Capped_changed_count
+age,45211,True,18.0,95.0,18.0,70.5,487
+balance,45211,True,-8019.0,102127.0,-1962.0,3462.0,4729
+duration,45211,True,0.0,4918.0,0.0,643.0,3235

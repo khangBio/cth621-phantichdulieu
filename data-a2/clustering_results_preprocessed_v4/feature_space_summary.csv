@@ -1,0 +1,2 @@
+﻿Rows,Original_feature_count,Numerical_feature_count,Categorical_feature_count,Encoded_feature_count,SVD_component_count,SVD_explained_variance_ratio,Excluded_labels,Numerical_features,Categorical_features
+45211,14,7,7,47,10,0.7829994307956953,"y, housing, loan","age, balance, day, duration, campaign, pdays, previous","job, marital, education, default, contact, month, poutcome"
