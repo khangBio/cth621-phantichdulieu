@@ -1,0 +1,26 @@
+{
+  "train_file": "D:\\IT-00913-VNPT\\SAU_DAI_HOC\\PHAN_TICH_DU_LIEU\\cth621-phantichdulieu-01\\data-b2\\outputs\\time_series_split\\all_stocks_5yr_train.csv",
+  "test_file": "D:\\IT-00913-VNPT\\SAU_DAI_HOC\\PHAN_TICH_DU_LIEU\\cth621-phantichdulieu-01\\data-b2\\outputs\\time_series_split\\all_stocks_5yr_test.csv",
+  "train_rows": 491367,
+  "test_rows": 127157,
+  "features": [
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume",
+    "Name"
+  ],
+  "target": "target_close_next",
+  "train_target_start": "2013-02-11",
+  "train_target_end": "2017-02-06",
+  "test_target_start": "2017-02-07",
+  "test_target_end": "2018-02-07",
+  "rf_trees": 80,
+  "cv_rf_trees": 25,
+  "rf_max_depth": 18,
+  "rf_min_samples_leaf": 5,
+  "random_state": 42,
+  "cv_skipped": false,
+  "python": "3.12.13 (main, Mar  3 2026, 15:01:35) [MSC v.1944 64 bit (AMD64)]"
+}
