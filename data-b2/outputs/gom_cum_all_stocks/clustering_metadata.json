@@ -1,0 +1,81 @@
+{
+  "input_rows": 619040,
+  "usable_rows": 619029,
+  "removed_rows": 11,
+  "target_columns_removed": [
+    "close"
+  ],
+  "features_used": [
+    "log_open",
+    "log_high",
+    "log_low",
+    "log_volume",
+    "intraday_range_pct",
+    "upper_shadow_pct",
+    "lower_shadow_pct",
+    "month_sin",
+    "month_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "base_columns_kept_out_of_target": [
+    "open",
+    "high",
+    "low",
+    "volume"
+  ],
+  "standardization": {
+    "method": "z_score",
+    "mean": [
+      4.134153910244475,
+      4.143620460828884,
+      4.124515974778061,
+      14.617626257933319,
+      0.019098190681519318,
+      0.009555578189763726,
+      0.009541194591082039,
+      -0.012061005455375792,
+      -0.008792459574605092,
+      0.009303769067057467,
+      -0.01537339544261563
+    ],
+    "std": [
+      0.7101512701122207,
+      0.7092775868502543,
+      0.7110222356546538,
+      1.0630912839218158,
+      0.012003875068606572,
+      0.009652600785509238,
+      0.00979118230111333,
+      0.7071178626009735,
+      0.7069381537253915,
+      0.7127362530132388,
+      0.7012019197309433
+    ]
+  },
+  "kmeans_selected_k": 2,
+  "kmeans_inertia": 5582985.773069956,
+  "pca_explained_ratio_first_two": [
+    0.3111223259496098,
+    0.1536829762112759
+  ],
+  "dbscan": {
+    "sample_size": 7000,
+    "eps": 0.7216990117119035,
+    "min_samples": 12,
+    "n_clusters": 1,
+    "noise_count": 93,
+    "noise_pct": 0.013285714285714286,
+    "cluster_counts": {
+      "-1": 93,
+      "0": 6907
+    }
+  },
+  "sample_notes": {
+    "kmeans_fit_sample": 30000,
+    "kmeans_final_assignment_rows": 619029,
+    "hierarchical_sample": 100,
+    "dbscan_sample": 7000,
+    "scatter_sample": 12000
+  }
+}
