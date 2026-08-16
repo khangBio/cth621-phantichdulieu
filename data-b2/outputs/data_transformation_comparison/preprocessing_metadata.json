@@ -1,0 +1,32 @@
+{
+  "input_path": "D:\\IT-00913-VNPT\\SAU_DAI_HOC\\PHAN_TICH_DU_LIEU\\cth621-phantichdulieu-01\\data-b2\\all_stocks_5yr.csv",
+  "output_dir": "D:\\IT-00913-VNPT\\SAU_DAI_HOC\\PHAN_TICH_DU_LIEU\\cth621-phantichdulieu-01\\data-b2\\outputs\\data_transformation_comparison",
+  "raw_rows": 619040,
+  "full_panel_rows": 635795,
+  "transformed_rows": 635795,
+  "direct_missing_cells": {
+    "date": 0,
+    "open": 11,
+    "high": 8,
+    "low": 8,
+    "close": 0,
+    "volume": 0,
+    "Name": 0
+  },
+  "missing_timestamps": 16755,
+  "line_gap_example": {
+    "Name": "BHF",
+    "column": "open"
+  },
+  "transformation_methods": [
+    "linear interpolation by Name",
+    "forward fill",
+    "backward fill",
+    "log-transform",
+    "log differencing",
+    "lag1 features",
+    "rolling 20 features"
+  ],
+  "png_scale_factor": 1.6,
+  "value_domain_chart": "06_value_domain_dispersion.png"
+}
