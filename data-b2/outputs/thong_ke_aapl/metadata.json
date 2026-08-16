@@ -1,0 +1,15 @@
+{
+  "input": "all_stocks_5yr.csv",
+  "stock_code": "AAPL",
+  "target": "close",
+  "quantitative_columns": [
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume"
+  ],
+  "rows": 1259,
+  "date_min": "2013-02-08",
+  "date_max": "2018-02-07"
+}
