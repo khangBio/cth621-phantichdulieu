@@ -1,0 +1,2 @@
+input_file,cutoff_date,n_splits,input_rows,stocks,removed_no_next_target,removed_missing_features,model_ready_rows,train_rows,test_rows,train_ratio,test_ratio,train_target_start,train_target_end,test_target_start,test_target_end,leakage_check_passed
+D:\IT-00913-VNPT\SAU_DAI_HOC\PHAN_TICH_DU_LIEU\cth621-phantichdulieu-01\data-b2\all_stocks_5yr.csv,2017-02-07,5,619040,505,505,11,618524,491367,127157,0.7944186482658716,0.20558135173412834,2013-02-11,2017-02-06,2017-02-07,2018-02-07,True
